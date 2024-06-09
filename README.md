@@ -34,11 +34,64 @@
 ---
 
 ### :upside_down_face: Badges and labels that surround me in a postmodern world :
-#81B64C
-
-
-
-### :fire: My Stats :
+<img height="32" width="32" src="https://cdn.simpleicons.org/Chess.com/#81B64C"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/LeetCode/#FFA116"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Habr/#65A3BE"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/TED/#E62B1E"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Coursera/#0056D2"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Udemy/#A435F0"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Duolingo/#58CC02"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/StackOverflow/#F58025"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Obsidian/#7C3AED"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/TogglTrack/#E57CD8"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/MSI/#FF0000"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/NVIDIA/#76B900"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Intel/#0071C5"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Razer/#00FF00"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Steelseries/#FF5200"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Telegram/#26A5E4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/#0A66C2"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Opera/#FF1B2D"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Samsung/#1428A0"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Sony/#FFFFFF"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/NewBalance/#CF0A2C"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/RedBull/#DB0A40"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/AdobeAcrobatReader/#EC1C24"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/AdobePhotoshop/#31A8FF"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/AdobePremierePro/#9999FF"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/AliExpress/#FF4747"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Amazon/#FF9900"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/eBay/#E53238"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/AdBlock/#F40D12"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/EpicGames/#313131"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Discord/#5865F2"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Valve/#F74843"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Winamp/#F93821"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/VLCmediaplayer/#FF8800"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Windows11/#0078D4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/TPLink/#4ACBD6"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/uTorrent/#76B83F"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/YouTube/#FF0000"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/YouTubeMusic/#FF0000"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Gmail/#EA4335"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Google/#4285F4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/GoogleDrive/#4285F4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/GoogleDocs/#4285F4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/GoogleMaps/#4285F4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/GoogleMeet/#00897B"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/GooglePay/#4285F4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/GoogleTranslate/#4285F4"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/PayPal/#003087"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/MasterCard/#EB001B"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Visa/#1A1F71"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/TUI/#D40E14"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Strava/#FC4C02"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/UFC/#D20A0A"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Binance/#F0B90B"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Bitcoin/#F7931A"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/TON/#0098EA"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Ethereum/#3C3C3D"/>&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/Dogecoin/#C2A633"/>&nbsp;
 
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=nikulindev&style=flat-square&color=blue" alt="Counter"/>
