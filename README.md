@@ -11,7 +11,22 @@
   </a>
 </div>
 
+---
+
 ### :man_technologist: About Me :
+
+- 🚀 I'm currently working on my pet-project<br>
+- :heavy_exclamation_mark: Fun fact: scio me nihil scire или scio me nescire 
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -30,6 +45,22 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikulindev&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikulindev&bg_color=0d1117&color=FFFFFF&line=FF69B4&point=9370DB)](https://github.com/nikulindev/github-readme-activity-graph)
+
+---
+
+### ❤️ My passions :
+
+:weight_lifting_man: Sports
+
+:telescope: Science and Technology
+
+:tent: Hiking and nature
+
+:mountain_bicyclist: Mountain biking
+
+:open_book: Books (goodreads)
+
+:joystick: Fallout, The Witcher, CALL OF DUTY: WARZONE, Heroes of Might and Magic III
 
 ---
 
@@ -106,7 +137,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently working on my projects
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
