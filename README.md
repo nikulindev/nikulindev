@@ -11,6 +11,8 @@
   </a>
 </div>
 
+### :man_technologist: About Me :
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -27,8 +29,16 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikulindev&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikulindev&bg_color=0d1117&color=FFFFFF&line=FF69B4&point=9370DB)](https://github.com/nikulindev/github-readme-activity-graph)
+
+---
+
+### :upside_down_face: Badges and labels that surround me in a postmodern world :
+#81B64C
 
 
+
+### :fire: My Stats :
 
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=nikulindev&style=flat-square&color=blue" alt="Counter"/>
