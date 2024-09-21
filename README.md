@@ -16,7 +16,7 @@
 ### :man_technologist: About Me :
 
 - 🚀 I'm currently working on my pet-project<br>
-- :heavy_exclamation_mark: Fun fact: scio me nihil scire или scio me nescire 
+- :heavy_exclamation_mark: Fun fact: scio me nihil scire
 
 
 
