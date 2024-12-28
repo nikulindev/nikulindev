@@ -66,6 +66,9 @@
 
 ---
 
+[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/{nikulindev})](https://zeynalmardanli-leetcode-stats.vercel.app/light/Lshiroc)
+[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/dark/{nikulindev})](https://zeynalmardanli-leetcode-stats.vercel.app/dark/Lshiroc)
+
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=nikulindev&style=flat-square&color=blue" alt="Counter"/>
 </div>
