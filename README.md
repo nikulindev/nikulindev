@@ -66,6 +66,8 @@
 
 ---
 
+![](https://leetcard.jacoblin.cool/nikulindev?ext=heatmap)
+
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=nikulindev&style=flat-square&color=blue" alt="Counter"/>
 </div>
